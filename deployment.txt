@@ -1,0 +1,5 @@
+1. Open a netlify account with github
+2. Link your github repor with the netlify portal
+3. Select the code repository you want to deploy
+4. Follow the simple 4-5 steps to continue the deployment
+5. Random website will be given, change the name of the website into the url of choice
