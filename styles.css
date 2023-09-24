@@ -197,10 +197,14 @@ section {
   text-align: center;
 }
 
+.btn-margin {
+  margin-bottom: 2vh;
+}
+
 #socials-container {
   display: flex;
   justify-content: center;
-  margin-top: 1rem;
+  margin-top: 2rem !important;
   gap: 1rem;
 }
 
@@ -253,10 +257,6 @@ section {
 
 .btn-color-2:hover {
   border: rgb(255, 255, 255) 0.1rem solid;
-}
-
-.btn-container {
-  gap: 1rem;
 }
 
 /* ABOUT SECTION */
